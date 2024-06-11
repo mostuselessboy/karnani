@@ -1,5 +1,5 @@
 import "@/styles/main.css";
-import {Navbar, Footer} from '@/pages/component/Components';
+import {Navbar, Footer} from '@/component/Components';
 import Head from "next/head";
 export default function App({ Component, pageProps }) {
   return (

@@ -1,5 +1,5 @@
 import Head from "next/head";
-import {CompBigBanner, CompTimeline, CompCardCollection, Navbar, Footer} from '@/pages/component/Components';
+import {CompBigBanner, CompTimeline, CompCardCollection, Navbar, Footer} from '@/component/Components';
 export default function Home() {
   const cardProgramBenifitData = [
     {
